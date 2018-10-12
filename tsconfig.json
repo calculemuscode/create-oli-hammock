@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "moduleResolution": "node",
+        "declaration": true,
+        "outDir": "lib",
+        "module": "commonjs",
+        "sourceMap": true,
+
+        "strict": true,
+        "allowUnreachableCode": false,
+        "allowUnusedLabels": false,
+        "noImplicitReturns": true,
+        "noUnusedLocals": true
+    },
+    "include": ["src/**/*.ts"]
+}
